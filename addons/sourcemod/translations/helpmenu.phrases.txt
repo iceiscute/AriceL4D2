@@ -1,0 +1,173 @@
+"Phrases"
+{
+	"WelcomeMessage"
+	{
+		"en"			"{default}[{red}!{default}] 欢迎来到Arice的卡比服!! 聊天栏输入 {olive}!helpmenu{default} 获取信息~服务器IP:{lightgreen}1.13.173.3:27015"
+		"zho"			"{default}[{red}!{default}] 欢迎来到Arice的卡比服!! 聊天栏输入 {olive}!helpmenu{default} 获取信息~服务器IP:{lightgreen}1.13.173.3:27015"
+		"chi"			"{default}[{red}!{default}] 欢迎来到Arice的卡比服!! 聊天栏输入 {olive}!helpmenu{default} 获取信息~服务器IP:{lightgreen}1.13.173.3:27015"
+	}
+	"Server Rules"
+	{
+		"en"			"Server Rules"
+		"zho"			"服务器村规"
+		"chi"			"服务器村规"
+	}
+	"- Very Strange"
+	{
+		"en"			"- 服务器为基于Sir的标准Zonemod修改搭建，并随时保持更新~"
+		"zho"			"- 服务器为基于Sir的标准Zonemod修改搭建，并随时保持更新~"
+		"chi"			"- 服务器为基于Sir的标准Zonemod修改搭建，并随时保持更新~"
+	}
+	"- Very Fun"
+	{
+		"en"			"- Be Sure U Are Not A Noob~"
+		"zho"			"- 所以请确保你拥有一定的游戏水平再游玩，不然会被殴打的>_<"
+		"chi"			"- 所以请确保你拥有一定的游戏水平再游玩，不然会被殴打的>_<"
+	}
+	"- Leave if you don't like"
+	{
+		"en"			"- Just leave if you dislike it"
+		"zho"			"- 当然如果你是爷新或者自封大佬欢迎联系腐竹1v1~"
+		"chi"			"- 当然如果你是爷新或者自封大佬欢迎联系腐竹1v1~"
+	}
+	"- Don't Cheat"
+	{
+		"en"			"- You can try to cheat to fight against bots(banned when lost)"
+		"zho"			"- 开挂发我一份 不然就滚"
+		"chi"			"- 开挂发我一份 不然就滚"
+	}
+	"Welcome to Official Instructions"
+	{
+		"en"			"Welcome to Arice's Server\nby Arice"
+		"zho"			"歡迎來到冰刺的垃姬服nby Arice"
+		"chi"			"欢迎来到冰刺的垃姬服\nby Arice"
+	}
+	"Map Rotation"
+	{
+		"en"			"Map Rotation"
+		"zho"			"地圖輪換"
+		"chi"			"地图轮换"
+		"ru"			"Список карт"
+	}
+	"List Online Admins"
+	{
+		"en"			"List Online Admins"
+		"zho"			"在線管理員"
+		"chi"			"在线管理员"	
+        "ru"			"Список админов в игре"
+	}
+	"Join our steam group"
+	{
+		"en"			"Join our steam group"
+		"zho"			"加入我們的Steam群組"	
+		"chi"			"加入我们的Steam群组"
+		"ru"			"Присоединяйтесь к группе в Steam"
+	}
+	"Don't display again"
+	{
+		"en"			"Don't display again"
+		"ru"			"Не показывать снова"
+		"zho"			"永遠不再顯示介面"	
+		"chi"			"永远不再显示界面"
+	}
+	"Display again next time"
+	{
+		"en"			"Display again next time"
+		"ru"			"Показывать снова"
+		"zho"			"下次繼續顯示介面"	
+		"chi"			"下次继续显示界面"
+	}
+	"Auto menu"
+	{
+		"#format"		"{1:t}"
+		"en"			"{green}[SM]{default} Auto Help Menu is {olive}{1}"
+		"ru"			"{green}[SM]{default} Меню автопомощи {olive}{1}"
+		"zho"			"{green}[SM]{default} 自動幫助介面已 {olive}{1}"
+		"chi"			"{green}[SM]{default} 自动帮助介面已 {olive}{1}"
+	}
+	"enabled"
+	{
+		"en"			"enabled"
+		"ru"			"включено"
+		"zho"			"開啟"	
+		"chi"			"开启"
+	}
+	"disabled"
+	{
+		"en"			"disabled"
+		"ru"			"отключено"
+		"zho"			"關閉"	
+		"chi"			"关闭"
+	}
+	"Configuration file has been reloaded"
+	{
+		"en"			"{green}[SM]{default} Help Menu Configuration file has been reloaded"
+		"ru"			"{green}[SM]{default} Конфигурационный файл меню помощи был перезагружен"
+		"zho"			"{green}[SM]{default} 幫助介面的相關文件已重新載入"	
+		"chi"			"{green}[SM]{default} 帮助界面的相关文件已重新载入"
+	}
+	"Current Rotation"
+	{
+		"#format"		"{1:i}"
+		"en"			"Current Rotation ({1} maps)"
+		"zho"			"地圖輪換 ({1} 張)"
+		"chi"			"地图轮换 ({1} 张)"
+		"ru"			"Текущий список ({1} карт)"
+	}
+	"Description"
+	{
+		"en"			"Description"
+		"zho"			"描述"
+		"chi"			"描述"
+		"ru"			"Описание"
+	}
+	"Chat Commands"
+	{
+		"en"			"Chat Commands"
+		"zho"			"可使用的指令列表"
+		"chi"			"服务器食用指南"
+		"ru"			"Команды чата"
+	}
+	"say !health"
+	{
+		"en"			"!health - See Health Bonus"
+		"zho"			"!health - 查看血分"
+		"chi"			"!health - 查看血分"
+	}
+	"say !s"
+	{
+		"en"			"!s - Become Spectator"
+		"zho"			"!s - 成為旁觀者"
+		"chi"			"!s - 成为旁观者"
+		"ru"			"!s - Стать наблюдателем"
+	}
+	"say !rpg"
+	{
+		"en"			"!rpg - Say I'm Dumb"
+		"zho"			"!rpg - 打开RPG菜单 :)"
+		"chi"			"!rpg - 打开RPG菜单 :)"
+	}
+                "say !dance"
+                { 
+                                "chi"                                         "!dance - 跳个舞"
+                }
+                "say !tank"
+                { 
+                                "chi"                                         "!tank - 看看克"
+                }
+                "say !votes"
+                {
+                                "chi"                                          "!votes - 投个票"
+                }
+	"Human Play"
+	{
+		"en"			"Plugins Specify"
+		"zho"			"插件特色"
+		"chi"			"插件特色"
+	}
+	"Human Play1"
+	{
+		"en"			"- 准备阶段静步+S超级跳 按E爬墙 /dance跳个舞"
+		"zho"			"- 准备阶段静步+S超级跳 按E爬墙 /dance跳个舞"
+		"chi"			"- 准备阶段静步+S超级跳 按E爬墙 /dance跳个舞"
+}

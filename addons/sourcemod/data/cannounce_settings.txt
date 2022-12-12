@@ -1,0 +1,30 @@
+"CountryShow"
+ {
+ 	// {PLAYERNAME}: 玩家名稱
+ 	// {STEAMID}: 玩家steam id
+ 	// {PLAYERCOUNTRY}: 玩家的國家
+ 	// {PLAYERCOUNTRYSHORT}: 玩家的國家短代號
+ 	// {PLAYERCOUNTRYSHORT3}: 玩家的國家短代號(多一些代號)
+ 	// {PLAYERCITY}: 玩家的城市
+ 	// {PLAYERREGION}: 玩家的地區(省,州)
+ 	// {PLAYERIP}: 玩家IP
+ 	// {PLAYERTYPE}: 玩家是否為管理員
+
+ 	// 你不能同時在一個訊息內使用顏色 {lightgreen}, {red}, {blue}
+ 	// {default}: 白色
+ 	// {green}: 橘色
+ 	// {olive}: 綠色
+ 	// {lightgreen}: 淺綠色
+ 	// {red}: 紅色
+ 	// {blue}: 藍色
+ 	"messages" //除了管理員外所有人會看到的
+ 	{
+ 		"playerjoin"		"{default}[{olive}!{default}] {green}{PLAYERNAME} {blue}进入服务器{default}. ({blue}来自{green}{PLAYERCOUNTRY} {olive}{PLAYERREGION} {red}{PLAYERCITY} {default}IP: {green}{PLAYERIP}{default} {olive}<ID:{STEAMID}>)"
+ 		"playerdisc"		"{default}[{olive}!{default}] {green}{PLAYERNAME} {red}离开服务器{default}. ({green}{DISC_REASON}{default}) IP: {green}{PLAYERIP}{default} {olive}<ID:{STEAMID}>"
+ 	}
+ 	"messages_admin" //管理員會看到的
+ 	{
+ 		"playerjoin"		"{default}[{olive}!{default}] {green}{PLAYERNAME} {blue}进入服务器{default}. ({blue}来自{green}{PLAYERCOUNTRY} {olive}{PLAYERREGION} {red}{PLAYERCITY} {default}IP: {green}{PLAYERIP}{default} {olive}<ID:{STEAMID}>)"
+ 		"playerdisc"		"{default}[{olive}!{default}] {green}{PLAYERNAME} {red}离开服务器{default}. ({green}{DISC_REASON}{default}) IP: {green}{PLAYERIP}{default} {olive}<ID:{STEAMID}>"
+ 	}
+ }
