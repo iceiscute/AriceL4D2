@@ -1,0 +1,44 @@
+// {default}
+// {olive}
+// {green}
+// {blue}
+// {red}
+// {lightgreen}
+
+"ChatResponses"
+{
+	"!admin"
+	{
+		"text"		"{red}///WARNING{green}管理员{olive}正在玩权!!!{red}WARNING///"
+	}
+	
+	"!op"
+	{
+		"text"		"{red}ARRRRRR航比残影坚{default}以及--{olive}A{green}B{red}C{blue}d{red}e{lightgreen}F{olive}i{green}s{blue}h"
+	}
+
+	"!buy"
+	{
+		"text"		"{red}买你吗b你以为你玩rpg呢？"
+	}
+
+                "6"
+	{
+		"text"		"{red}文明游戏请勿扣6!"
+	}
+ 
+                "脑z"
+	{
+		"text"		"{red}对于脑z这种苕皮，我们应该狠狠的呛煎再爆炒中厨"
+	}
+
+                "ar1"
+	{
+		"text"		"{red}冰刺是ABC他妈 ABC是Ari的女儿"
+	}
+
+	"!rpg"
+	{
+		"text"		"{red}骗你的qwq~"
+	}
+}

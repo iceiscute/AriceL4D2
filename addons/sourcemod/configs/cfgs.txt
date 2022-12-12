@@ -1,0 +1,245 @@
+"Cfgs"
+{
+	"服务器选项"
+	{
+		"sm_restartmap"
+		{
+			"message" "重置当前地图"
+		}
+		"sm_restart"
+		{
+			"message" "服务器端重启"
+		}
+	}
+	"开关Mod"
+	{
+		"exec vote/mod_on.cfg"
+		{
+			"message" "开启Mod"
+		}
+		"exec vote/mod_off.cfg"
+		{
+			"message" "关闭Mod"
+		}
+	}	
+	"药役模式选择"
+	{
+                                "exec match/Angxl"
+		{
+			"message" "Angxl包抗"
+		}
+		"exec match/zonemod"
+		{
+			"message" "ZM 2.8"
+		}
+                                "exec match/nextmod1v1"
+		{
+			"message" "nextmod1v1"
+		}
+		"sm_fm annehappy"
+		{
+			"message" "普通药役模式"
+		}
+		"sm_fm hunters"
+		{
+			"message" "1vHunter模式"
+		}
+		"sm_fm alone"
+		{
+			"message" "单人装B模式"
+		}
+		"sm_fm witchparty"
+		{
+			"message" "WitchParty模式"
+		}
+		"sm_fm allcharger"
+		{
+			"message" "牛牛冲刺大逃亡"
+		}
+	}
+                "官方地图"
+	{
+	    "changelevel c1m1_hotel"
+		{
+			"message" "C1-死亡中心"
+		}
+		"changelevel c2m1_highway"
+		{
+			"message" "C2-黑色狂欢节"
+		}
+		"changelevel c3m1_plankcountry"
+		{
+			"message" "C3-沼泽激战"
+		}
+		"changelevel c4m1_milltown_a"
+		{
+			"message" "C4-暴风骤雨"
+		}
+		"changelevel c5m1_waterfront"
+		{
+			"message" "C5-教区"
+		}
+		"changelevel c6m1_riverbank"
+		{
+			"message" "C6-短暂时刻"
+		}
+		"changelevel c7m1_docks"
+		{
+			"message" "C7-牺牲"
+		}
+		"changelevel c8m1_apartment"
+		{
+			"message" "C8-毫不留情"
+		}
+		"changelevel c9m1_alleys"
+		{
+			"message" "C9-坠机险途"
+		}
+		"changelevel c10m1_caves"
+		{
+			"message" "C10-死亡丧钟"
+		}
+		"changelevel c11m1_greenhouse"
+		{
+			"message" "C11-静寂时分"
+		}
+		"changelevel c12m1_hilltop"
+		{
+			"message" "C12-血腥收获"
+		}
+		"changelevel c13m1_alpinecreek"
+		{
+			"message" "C13-刺骨寒溪"
+		}
+		"changelevel c14m1_junkyard"
+		{
+			"message" "C14-临死一搏"
+		}
+	}
+	"非官方地图"
+	{
+		"changelevel dkr_m1_motel"
+		{
+			"message" "Dark Carnival: Remix"
+		}
+		"changelevel dprm1_milltown_a"
+		{
+			"message" "Hard Rain: Downpour"
+		}
+	    "changelevel cdta_01detour"
+		{
+			"message" "Detour Ahead  (迂回前进)"
+		}
+	    "exec maps/diescraper.cfg"
+		{
+			"message" "Diescraper (喋血蜃楼)"
+		}
+		"changelevel cwm1_intro"
+		{
+			"message" "Carried off (绝境逢生)"
+		}
+		"exec maps/sb.cfg"
+		{
+			"message" "Suicide Blitz 2 (闪电突袭2)"
+		}
+		"exec maps/dbd2dc.cfg"
+		{
+			"message" "Dead Before Dawn DC (活死人黎明)"
+		}
+		"changelevel aircrash"
+		{
+			"message" "Heaven Can Wait Ⅱ (天堂可待 Ⅱ)"
+		}
+		"changelevel l4d_ihm01_forest"
+		{
+			"message" "I Hate Mountains 2 (我爱大山 2)"
+		}
+		"changelevel x1m1_cliffs"
+		{
+			"message" "OpenRoad (绝命公路)"
+		}
+		"changelevel l4d2_bts01_forest"
+		{
+			"message" "Back to School (回到学校)"
+		}
+		"changelevel uz_crash"
+		{
+			"message" "Undead Zone (亡灵区)"
+		}
+		"changelevel l4d2_city17_01"
+		{
+			"message" "City 17 (17 城)"
+		}
+		"changelevel wfp1_track"
+		{
+			"message" "White Forest (白森林)"
+		}
+		"changelevel srocchurch"
+		{
+			"message" "Warcelona (巴塞罗那)"
+		}
+		"changelevel uf1_boulevard"
+		{
+			"message" "Urban Flight (城市航班)"
+		}
+                                "changelevel highway01_apt_20130613"
+		{
+			"message" "Highway To Hell (地狱高速)"
+		}
+                                "changelevel l4d_149_1"
+		{
+			"message" "149 (古墓亡影)"
+		}
+                                "changelevel 2019_M1b"
+		{
+			"message" "2019 (2019)"
+		}
+                                "changelevel wow_map1"
+		{
+			"message" "Whispers of Winter (冬日低语)"
+		}
+                                 "changelevel hf01_thefores"
+		{
+			"message" "Haunted Forest-颤栗森林"
+		}
+                                "changelevel PR1_Waterfront_F"
+		{
+			"message" "Parish: OverGrowth-C5改：蔓延"
+		}
+                                "changelevel daredux_map1_docks_aw"
+		{
+			"message" "Dead Air:Redux Another Way-C11改：另辟蹊径"
+		}
+                                 "changelevel bwm1_climb"
+		{
+			"message" "Big Wat-大佛寺"
+		}
+                                "changelevel map bhm1_outskirts"
+		{
+			"message" "left behind-末日迷踪"
+		}
+                                "changelevel bloodtracks_01"
+		{
+			"message" "Blood track-血之轨迹"
+		}
+                                "changelevel fos1m1_hill"
+                                {
+                                                "message" "生还之锋"
+                                }
+                }
+	"杂项"
+	{
+		"sm_cvar l4d2_scripted_hud_enable 1"
+		{
+			"message" "打开hud"
+		}
+		"sm_cvar l4d2_scripted_hud_enable 0"
+		{
+			"message" "关闭hud"
+		}
+		"sm_cvar specrates_fulltickspecnum 1"
+		{
+			"message" "限制旁观tick"
+		}
+	}
+}
