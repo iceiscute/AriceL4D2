@@ -1,6 +1,7 @@
 # AriceL4D2
 AriceServer
-部分插件来源
+部分插件来源，全源码有需要自取
+
 **https://github.com/A1oneR/AirMod**
 
 **https://github.com/PaimonQwQ/AngelBeats**
@@ -15,3 +16,4 @@ AriceServer
 
 **https://github.com/SirPlease/L4D2-Competitive-Rework**
 
+lODOamdagbhidalidmklfsanj;o',l[op'.;da.;daplskjdsapkcap'ls,c.a;'da[
