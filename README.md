@@ -1,6 +1,6 @@
 # AriceL4D2
 AriceServer
-
+部分插件来源
 **https://github.com/A1oneR/AirMod**
 
 **https://github.com/PaimonQwQ/AngelBeats**
