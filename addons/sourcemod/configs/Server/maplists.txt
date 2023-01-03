@@ -1,0 +1,60 @@
+//"請使用專業代碼修改軟件進行修改本文檔,文檔格式爲:UTF-8 without BOM(Please using the professional software to modify this document,File type:UTF-8 without BOM)"		"軟件下載地址(Download URL): http://notepad-plus-plus.org/"
+"MapLists"
+{
+	"c1m1_hotel"
+	{
+		"name" "死亡中心"
+	}
+	"c6m1_riverbank"
+	{
+		"name" "短暂时刻"
+	}
+	"c2m1_highway"
+	{
+		"name" "黑色嘉年华"
+	}
+	"c3m1_plankcountry"
+	{
+		"name" "沼泽激战"
+	}
+	"c4m1_milltown_a"
+	{
+		"name" "暴风骤雨"
+	}
+	"c5m1_waterfront"
+	{
+		"name" "教区"
+	}
+	"c13m1_alpinecreek"
+	{
+		"name" "刺骨寒溪"
+	}
+	"c8m1_apartment"
+	{
+		"name" "毫不留情"
+	}
+	"c9m1_alleys"
+	{
+		"name" "坠机险途"
+	}
+	"c10m1_caves"
+	{
+		"name" "死亡丧钟"
+	}
+	"c11m1_greenhouse"
+	{
+		"name" "静寂时分"
+	}
+	"c12m1_hilltop"
+	{
+		"name" "血腥收获"
+	}
+	"c7m1_docks"
+	{
+		"name" "牺牲"
+	}
+	"c14m1_junkyard"
+	{
+		"name" "临死一搏"
+	}
+}

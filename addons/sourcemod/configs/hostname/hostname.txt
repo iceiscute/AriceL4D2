@@ -2,7 +2,7 @@
 {
 	"27015"
 	{
-		"servername"	"ABCdeFish一生推 | "
+		"servername"	"星与海之涯"
 	}
 	"2331"
 	{

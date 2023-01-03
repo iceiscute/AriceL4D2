@@ -8,72 +8,27 @@
 	"2"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}!votes执行换图/回血/踢人等操作"
+		"text"		"{green}!vote{olive}打开投票面板 {olive}我爱吃坦克"
 	}
 	"3"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}我爱吃坦克"
+		"text"		"{olive}输入{green}!vote{olive}投票关闭hud"
 	}
 	"4"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}克局不要光顾着集火 {GREEN}多黑几枪队友{LIGHTGREEN}也是不会被发现的啦"
+		"text"		"{LIGHTGREEN}倒地{GREEN}小手枪 {LIGHTGREEN}特感心发慌 倒地{GREEN}马格南 {LIGHTGREEN}特感没法玩"
 	}
 	"5"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}为了大家的游戏体验 本服务器建议{GREEN}开挂游玩"
+		"text"		"{olive}旁观可以双击F打开夜视仪"
 	}
 	"6"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}血量{GREEN}低于40{LIGHTGREEN}时要记得暗示队友给药 不给可以{GREEN}直接黑枪{LIGHTGREEN}哦"
-	}
-	"7"
-	{
-		"type"		"S"
-		"text"		"{GREEN}A{LIGHTGREEN}B{GREEN}C{LIGHTGREEN}d{GREEN}e{LIGHTGREEN}F{GREEN}i{LIGHTGREEN}s{GREEN}h"
-	}
-	"8"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}使用加速器打开链接 {GREEN} https://steamcommunity.com/groups/LESEVersus {LIGHTGREEN}加入群组一起玩鸭~"
-	}
-	"9"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}倒地{GREEN}小手枪 {LIGHTGREEN}特感心发慌 倒地{GREEN}马格南 {LIGHTGREEN}特感没法玩"
-	}
-	"10"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}二次元看看实力>_<"
-	}
-	"11"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}服务器插件支持{GREEN}Zonemod/Nextmod/WP/进阶包抗 {LIGHTGREEN}可以自行更换~"
-	}
-	"12"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}如果队友旁边{GREEN}出现胖子{LIGHTGREEN}一定要{GREEN}立刻开枪 {LIGHTGREEN}以免胖子被推开"
-	}
-	"13"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}输入!buy购买神器"
-	}
-	"14"
-	{
-		"type"		"S"
-		"text"		"{LIGHTGREEN}偷偷告诉你，输入!rpg可以解锁神秘功能~"
-	}
-	"15"
-	{
-	   "type"      "S"
-	   "text"      "{LIGHTGREEN}喜欢你的第三百八十一天，今后，也请，多多关照~"
+		"text"		"{olive}旁观卡输入{green}!vote{olive}投票限制旁观Tick"
 	}
 }
 
