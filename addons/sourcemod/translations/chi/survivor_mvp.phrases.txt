@@ -2,7 +2,7 @@
 {
 	"Tag"
 	{
-		"chi"		"{blue}[{default}MVP{blue}]{default}"
+		"chi"		"{blue}★★★★★"
 	}
 	"YourRankSI"
 	{
@@ -62,14 +62,14 @@
 	}
 	"ReportFF_Absolute"
 	{
-		"chi"		"{green}友伤: {olive}%s {blue}({default}%d {green}友伤{blue})"
+		"chi"		"{green}关{blue}键{olive}先{green}生: {olive}%s {blue}({default}%d {green}友伤{blue})"
 	}
 	"ReportFF_Percent"
 	{
-		"chi"		"{green}友伤: {olive}%s {blue}({green}友伤 {blue}[{default}%.0f%%{blue}])"
+		"chi"		"{green}关{blue}键{olive}先{green}生: {olive}%s {blue}({green}友伤 {blue}[{default}%.0f%%{blue}])"
 	}
 	"ReportFF_Full"
 	{
-		"chi"		"{green}友伤: {olive}%s {blue}({default}%d {green}友伤 {blue}[{default}%.0f%%{blue}])"
+		"chi"		"{green}关{blue}键{olive}先{green}生: {olive}%s {blue}({default}%d {green}友伤 {blue}[{default}%.0f%%{blue}])"
 	}
 }
