@@ -1,5 +1,5 @@
-# AriceL4D2
-AriceServer
+# Dollyy
+NCServer
 部分插件来源，全源码有需要自取
 
 **https://github.com/A1oneR/AirMod**
